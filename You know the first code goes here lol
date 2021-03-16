@@ -1,0 +1,10 @@
+const isItStamsite? (player){
+  if (player === "Stamsite"){
+    const isItStamsite? = true
+   }else{
+    const isItStamsite? = false
+    }
+ }  
+ repeat (forever){
+    isItStamsite? (playerName)
+    }
